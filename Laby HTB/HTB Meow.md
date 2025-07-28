@@ -11,7 +11,7 @@
 ## 🌐 Krok 1 – Rekonesans
 
 ```bash
-nmap -sV nmap 10.129.XXX.XXX
+nmap -sV 10.129.XXX.XXX
 ```
 
 **Wynik:**
